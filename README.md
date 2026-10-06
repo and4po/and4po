@@ -2,7 +2,7 @@
 
 Don't use GitHub for Free Software development!
 
-There are plenity of alternatives. Use free tools such as Forgejo (ex. Codeberg) instead!
+There are plenty of alternatives. Use free tools such as Forgejo (ex. Codeberg) instead!
 
 https://giveupgithub.org 🧨
 
