@@ -1,4 +1,10 @@
-### Hi there 👋
+#  ⚠️ Don't feed the monster
+
+Don't use GitHub for Free Software development!
+
+There are plenity of alternatives. Use free tools such as Forgejo (ex. Codeberg) instead!
+
+https://giveupgithub.org 🧨
 
 <!--
 **and4po/and4po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
